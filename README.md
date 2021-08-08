@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danish-sudo
 - 👀 I’m interested in Python Development particularly Machine Learning & Flask Web Development
-- 🌱 I’m currently in my final semester at Air University Islamabad Pakistan doing BSCS
+- 🌱 Fresh Graduate
 - 📫 How to reach me : Email: danishsiddqiue@outlook.com
 <!---
 danish-sudo/danish-sudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
